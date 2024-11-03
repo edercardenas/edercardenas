@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edercardenas
-- 👀 I’m interested in Analytics
+- 👀 I’m interested in Energy Markets & Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ferecasting
 - 📫 How to reach me ecardenasco@unal.edu.co
